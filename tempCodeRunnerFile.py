@@ -1,0 +1,1 @@
+contador = int(input('Tempo:'))
