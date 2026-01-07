@@ -14,4 +14,5 @@ while resp in 'Ss':
     resp = str(input('Quer continuar? [S/N]')) .upper() .strip()
 media = soma/cont
 print (f'a soma dos números é igual a {soma}')
-print (f'A média é igual a {media}')
+print (f' A media dessa soma é igual a {media}')
+#tentar fazer sem ver
